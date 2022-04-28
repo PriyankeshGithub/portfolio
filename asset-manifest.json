@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PriyankeshGithub/portfolio.git/static/css/main.e2728e6c.css",
+    "main.js": "/PriyankeshGithub/portfolio.git/static/js/main.ee5f9649.js",
+    "static/media/myimage.jpg": "/PriyankeshGithub/portfolio.git/static/media/myimage.eaf559c999e165e9e523.jpg",
+    "index.html": "/PriyankeshGithub/portfolio.git/index.html",
+    "main.e2728e6c.css.map": "/PriyankeshGithub/portfolio.git/static/css/main.e2728e6c.css.map",
+    "main.ee5f9649.js.map": "/PriyankeshGithub/portfolio.git/static/js/main.ee5f9649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2728e6c.css",
+    "static/js/main.ee5f9649.js"
+  ]
+}
