@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PriyankeshGithub/portfolio.git/static/css/main.e2728e6c.css",
-    "main.js": "/PriyankeshGithub/portfolio.git/static/js/main.ee5f9649.js",
-    "static/media/myimage.jpg": "/PriyankeshGithub/portfolio.git/static/media/myimage.eaf559c999e165e9e523.jpg",
-    "index.html": "/PriyankeshGithub/portfolio.git/index.html",
-    "main.e2728e6c.css.map": "/PriyankeshGithub/portfolio.git/static/css/main.e2728e6c.css.map",
-    "main.ee5f9649.js.map": "/PriyankeshGithub/portfolio.git/static/js/main.ee5f9649.js.map"
+    "main.css": "/portfolio/static/css/main.e2728e6c.css",
+    "main.js": "/portfolio/static/js/main.5404512b.js",
+    "static/media/myimage.jpg": "/portfolio/static/media/myimage.eaf559c999e165e9e523.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.e2728e6c.css.map": "/portfolio/static/css/main.e2728e6c.css.map",
+    "main.5404512b.js.map": "/portfolio/static/js/main.5404512b.js.map"
   },
   "entrypoints": [
     "static/css/main.e2728e6c.css",
-    "static/js/main.ee5f9649.js"
+    "static/js/main.5404512b.js"
   ]
 }
